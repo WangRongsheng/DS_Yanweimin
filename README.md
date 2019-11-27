@@ -1,8 +1,10 @@
-# DS_Yanweimin
+# 《数据结构（C语言版）（第2版）》
 
+<center>
 ![book](https://github.com/WangRongsheng/DS_Yanweimin/blob/master/img/book.jpg)
+</center>
 
-:trollface: 大学生《数据结构（C语言版）（第2版）》 严蔚敏版的配套PPT/源代码/实验安排/课时安排
+:whale2: 大学《数据结构（C语言版）（第2版）》 严蔚敏版的配套PPT/源代码/实验安排/课时安排
 
 # 内容
 
