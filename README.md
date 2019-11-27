@@ -1,8 +1,6 @@
 # 《数据结构（C语言版）（第2版）》
 
-<center>
-<img src="https://github.com/WangRongsheng/DS_Yanweimin/blob/master/img/book.jpg" />
-</center>
+<img src="https://github.com/WangRongsheng/DS_Yanweimin/blob/master/img/book.jpg" alt="数据结构" align="center" />
 
 :whale2: 大学《数据结构（C语言版）（第2版）》 严蔚敏版的配套PPT/源代码/实验安排/课时安排
 
